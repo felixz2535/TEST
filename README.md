@@ -7,9 +7,10 @@
 
 Bio:
 
-I live in Brooklyn and attend HSTAT.  
-I would spent most of the time at home.  
-My hobbies are Anime, Badminton and PC.  
+
+* I live in Brooklyn and attend HSTAT.  
+* I would spent most of the time at home.  
+* My hobbies are Anime, Badminton and PC.  
 
 _Schedule_:
 
