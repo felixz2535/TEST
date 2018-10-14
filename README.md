@@ -3,7 +3,7 @@
 ---
 ***School: HSTAT***
 
-[felixz2535@hstat.org](mailto:felixz2535@hstat.org)  
+Email: [felixz2535@hstat.org](mailto:felixz2535@hstat.org)  
 
 Bio:
 
